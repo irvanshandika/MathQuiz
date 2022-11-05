@@ -1,0 +1,11 @@
+D:\PemrogramanLanjut\MathQuiz\bin\Debug\MathQuiz.exe.config
+D:\PemrogramanLanjut\MathQuiz\bin\Debug\MathQuiz.exe
+D:\PemrogramanLanjut\MathQuiz\bin\Debug\MathQuiz.pdb
+D:\PemrogramanLanjut\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+D:\PemrogramanLanjut\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+D:\PemrogramanLanjut\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+D:\PemrogramanLanjut\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+D:\PemrogramanLanjut\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+D:\PemrogramanLanjut\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+D:\PemrogramanLanjut\MathQuiz\obj\Debug\MathQuiz.exe
+D:\PemrogramanLanjut\MathQuiz\obj\Debug\MathQuiz.pdb
